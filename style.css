@@ -1,0 +1,28 @@
+h1{
+    color:blue;
+    text-align: center;
+}
+
+h2{
+    color:orange;
+    text-align: center;
+}
+
+#info{
+    text-align:left;
+}
+
+p{
+    text-align: center;
+}
+
+#mypic{
+    position: relative;
+    top: 50%;
+    left:42%;
+    
+
+border-style: solid;
+border-width: 20px;
+border-color: red;
+}
